@@ -1,0 +1,28 @@
+site_name: IB portfolio
+site_author: Iwona Borkowska
+site_description: >-
+    Portfolio moich projektów z Data Science i AI!
+
+theme:
+  name: material
+  palette:
+    primary: deep purple
+
+
+extra_css:
+- stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
+
+nav:
+- O mnie: index.md
+- Obecny projekt:
+  - "Halfmarathon": halfmarathon/index.md
+- Poprzednie projekty:
+  - "Iris": iris/index.md
+  - "Titanic": titanic/index.md
+  - "Welcome survey": welcome_survey/index.md
+  - "Find Friends": find_friends/index.md
+  - "Vox Note": vox_note/index.md
+- Kontakt: contact.md
