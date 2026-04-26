@@ -11,7 +11,7 @@ Aplikacja szacująca czas ukończenia półmaratonu na podstawie danych biegacza
 
 `#ML` `#Streamlit` `#OpenAI` `#DigitalOcean`
 
-<a href="../halfmarathon/" class="md-button">Zobacz projekt</a>
+<a href="/portfolio/halfmarathon/" class="md-button">Zobacz projekt</a>
 
 ---
 
@@ -22,7 +22,7 @@ Generator transkrypcji i podsumowań plików audio i wideo.
 
 `#Streamlit` `#OpenAI` `#Whisper`
 
-<a href="../vox_note/" class="md-button">Zobacz projekt</a>
+<a href="/portfolio/vox_note/" class="md-button">Zobacz projekt</a>
 
 ---
 
@@ -31,7 +31,7 @@ Aplikacja do znajdowania osób o podobnych zainteresowaniach – klasteryzacja +
 
 `#Streamlit` `#ML` `#Klasteryzacja` `#OpenAI`
 
-<a href="../find_friends/" class="md-button">Zobacz projekt</a>
+<a href="/portfolio/find_friends/" class="md-button">Zobacz projekt</a>
 
 ---
 
@@ -40,7 +40,7 @@ Eksploracja danych z ankiety powitalnej uczestników kursu.
 
 `#Streamlit` `#Pandas` `#Plotly`
 
-<a href="../welcome_survey/" class="md-button">Zobacz projekt</a>
+<a href="/portfolio/welcome_survey/" class="md-button">Zobacz projekt</a>
 
 ---
 
@@ -49,7 +49,7 @@ Eksploracyjna analiza danych pasażerów Titanica.
 
 `#EDA` `#Pandas` `#Seaborn`
 
-<a href="../titanic/" class="md-button">Zobacz projekt</a>
+<a href="/portfolio/titanic/" class="md-button">Zobacz projekt</a>
 
 ---
 
@@ -58,4 +58,4 @@ Eksploracyjna analiza danych irysów – mój pierwszy projekt analityczny.
 
 `#EDA` `#Pandas` `#Seaborn`
 
-<a href="../iris/" class="md-button">Zobacz projekt</a>
+<a href="/portfolio/iris/" class="md-button">Zobacz projekt</a>
