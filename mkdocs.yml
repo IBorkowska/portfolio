@@ -3,6 +3,7 @@ site_author: Iwona Borkowska
 site_description: >-
     Portfolio moich projektów z Data Science i AI!
 
+site_url: https://iborkowska.github.io/portfolio/
 repo_name: IBorkowska/portfolio
 repo_url: https://github.com/IBorkowska/portfolio
 
@@ -10,7 +11,6 @@ theme:
   name: material
   palette:
     primary: deep purple
-
 
 extra_css:
 - stylesheets/extra.css
